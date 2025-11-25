@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
   config: {
     name: 'imagine',
-    aliases: ['img', 'generateimage'],
+    aliases: ['generateimage'],
     permission: 0,
     prefix: true,
     description: 'Generate an image from a prompt using an external API.',
